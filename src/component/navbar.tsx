@@ -17,8 +17,8 @@ const NavBar = () => {
         <div className="w-full h-20 bg-gray-200 flex items-center justify-center">
              <ul dir="rtl" className="flex items-center  justify-center space-x-6 text-2xl list-none cursor-pointer">
                   {
-                    nalLink.map((item)=> (
-                        <li ><Link className={patname === item.link ? "text-red-950" : 'text-[#232323]'}
+                    nalLink.map((item, index)=> (
+                        <li key={index}><Link className={patname === item.link ? "text-red-950" : 'text-[#232323]'}
                          href={item.link}> {item.title}</Link></li>
                     ))
                   }
