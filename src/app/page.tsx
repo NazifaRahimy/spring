@@ -2,10 +2,17 @@
 
 export default function Home() {
   return (
-    <div className="w-full h-[500px] border bg-blue-500 text-center">
-         <h1 className="text-white text-3xl font-bold mt-[150px]">Hello word </h1>
-         <p className="mt-10 px-20 text-white text-left"
-         >Spring, also known as springtime, is one of the four temperate seasons, succeeding winter and preceding summer. There are various technical definitions of spring, but local usage of the term varies according to local climate, cultures and customs. When it is spring in the Northern Hemisphere, it is autumn in the Southern Hemisphere and vice versa. At the spring equinox, also called the vernal equinox, days and nights are approximately twelve hours long, with daytime length increasing and nighttime length decreasing as the season progresses until the summer solstice. The spring equinox is in March in the Northern Hemisphere and in September in the Southern Hemisphere, while the summer solstice is in June in the Northern Hemisphere and in December in the Southern Hemisphere.</p>
+    <div >
+        <div dir="rtl" >
+            <h1 ><span >روزانه</span>    » <span > متن و جمله</span></h1>
+            <h2 >متن عاشقانه فصل بهار + جملات زیبا در وصف بهار و فصل سرسبزی</h2>
+            <p >فصل بهار شروع زیبایی ها است و سرسبزی این فصل باعث نشاط و سرزندگی روحیه می شود. با فرا رسیدن فصل بهار خیلی از افراد خوشحال تر هستند زیرا رشد درختان و آواز پرندگان را می شنوند و هوا نیز بسیار لطیف است. در این فصل زیبا، گل ها به آرامی شکوفه می دهند و طبیعت بار دیگر نو می شود و لباس سبز به تن می کند. این فصل در روحیه انسان ها هم بسیار تاثیر می گذارد و حس عشق را در وجود انسان بیش از پیش می کند. به همین مناسبت زیباترین متن های عاشقانه ویژه فصل بهار را در ادامه گردآوری کرده ایم.</p>
+        </div>
+        <div >
+            <div >
+                <img src="https://roozaneh.net/wp-content/uploads/2024/03/photo_2024-03-10_17-35-26.jpg.webp" alt="" />
+            </div>
+      </div>
     </div>
   );
 }
