@@ -1,5 +1,6 @@
 
 
+
 export default function Home() {
   return (
     <div  className="w-full  box-border px-[80px] py-10 " >
@@ -13,6 +14,7 @@ export default function Home() {
                 <img className="w-[900px] h-[450px] rounded-[20px]" src="https://roozaneh.net/wp-content/uploads/2024/03/photo_2024-03-10_17-35-26.jpg.webp" alt="" />
             </div>
       </div>
+    
     </div>
   );
 }
