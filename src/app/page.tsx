@@ -14,7 +14,7 @@ export default function Home() {
                 <img className="w-[900px] h-[450px] rounded-[20px]" src="https://roozaneh.net/wp-content/uploads/2024/03/photo_2024-03-10_17-35-26.jpg.webp" alt="" />
             </div>
         </div>
-        <h1 className="text-center my-10 text-xl font-bold">متن انگلیسی در مورد بهار</h1>
+        <h1 className="text-center my-10 text-2xl font-bold">متن انگلیسی در مورد بهار</h1>
       <div  className="bg-gray-100 text-center w-[900px] h-auto  rounded-2xl border-box px-10 pb-4 mx-auto">
            <div className="  mx-auto  w-[150px] text-center bg-gray-100 shadow-blue-100 shadow-md rounded-br-full rounded-bl-full flex justify-center pb-4 pt-3  mb-5"><FaQuoteRight /></div>
            <h2 className="text-xl font-normal mt-10 px-3" >I glanced out the window at the signs of spring. The sky was almost blue, the trees were almost budding, the sun was almost bright .</h2>
