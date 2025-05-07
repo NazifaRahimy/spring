@@ -1,4 +1,4 @@
-
+import { FaQuoteRight } from "react-icons/fa";
 
 
 export default function Home() {
@@ -13,6 +13,12 @@ export default function Home() {
             <div className="w-[900px] h-[450px] rounded-[20px]  mt-10">
                 <img className="w-[900px] h-[450px] rounded-[20px]" src="https://roozaneh.net/wp-content/uploads/2024/03/photo_2024-03-10_17-35-26.jpg.webp" alt="" />
             </div>
+        </div>
+        <h1 >متن انگلیسی در مورد بهار</h1>
+      <div  >
+           <div><FaQuoteRight /></div>
+           <h2 >I glanced out the window at the signs of spring. The sky was almost blue, the trees were almost budding, the sun was almost bright .</h2>
+           <h2 >به بیرون از پنجره، به نشانه های بهار نگریستم. آسمان تقریبا نیلگون بود، درختان تقریبا جوانه زده بودند، و خورشید تقریبا درخشان بود</h2>
       </div>
     
     </div>
