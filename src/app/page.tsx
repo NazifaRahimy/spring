@@ -14,11 +14,11 @@ export default function Home() {
                 <img className="w-[900px] h-[450px] rounded-[20px]" src="https://roozaneh.net/wp-content/uploads/2024/03/photo_2024-03-10_17-35-26.jpg.webp" alt="" />
             </div>
         </div>
-        <h1 >متن انگلیسی در مورد بهار</h1>
-      <div  >
-           <div><FaQuoteRight /></div>
-           <h2 >I glanced out the window at the signs of spring. The sky was almost blue, the trees were almost budding, the sun was almost bright .</h2>
-           <h2 >به بیرون از پنجره، به نشانه های بهار نگریستم. آسمان تقریبا نیلگون بود، درختان تقریبا جوانه زده بودند، و خورشید تقریبا درخشان بود</h2>
+        <h1 className="text-center my-10 text-xl font-bold">متن انگلیسی در مورد بهار</h1>
+      <div  className="bg-gray-100 text-center w-[900px] h-auto  rounded-2xl border-box px-10 pb-4 mx-auto">
+           <div className="  mx-auto  w-[150px] text-center bg-gray-100 shadow-blue-100 shadow-md rounded-br-full rounded-bl-full flex justify-center pb-4 pt-3  mb-5"><FaQuoteRight /></div>
+           <h2 className="text-xl font-normal mt-10 px-3" >I glanced out the window at the signs of spring. The sky was almost blue, the trees were almost budding, the sun was almost bright .</h2>
+           <h2 className="text-xl font-normal mt-5 px-3 mb-10" >به بیرون از پنجره، به نشانه های بهار نگریستم. آسمان تقریبا نیلگون بود، درختان تقریبا جوانه زده بودند، و خورشید تقریبا درخشان بود</h2>
       </div>
     
     </div>
