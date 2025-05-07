@@ -2,7 +2,7 @@
 
 export default function Home() {
   return (
-    <div  className="w-full  box-border px-[80px] py-10" >
+    <div  className="w-full  box-border px-[80px] py-10 bg-amber-300" >
         <div dir="rtl" className="w-[900px] mx-auto ">
         <h1 className="text-2xl mt-2 mb-4 font-semibold text-gray-500 "><span className=" text-[#232323] hover:text-blue-600 cursor-pointer ">روزانه</span>    » <span className=" text-[#232323] hover:text-blue-600 cursor-pointer "> متن و جمله</span></h1>
             <h2 className="mt-5 mb-4 text-[#232323] font-semibold text-xl">متن عاشقانه فصل بهار + جملات زیبا در وصف بهار و فصل سرسبزی</h2>
