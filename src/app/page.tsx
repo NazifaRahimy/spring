@@ -54,6 +54,14 @@ export default function Home() {
       <div className="w-[900px]   rounded-[20px]  mt-10 mx-auto">
            <img className="w-[900px]  rounded-[20px]"src="https://roozaneh.net/wp-content/uploads/2024/03/bahare-ziba-5.jpg.webp" alt="" />
       </div>
+      <div >
+          <div ><FaQuoteRight /></div>
+          <p>ایمان بیاوریم به بهار</p>
+          <p >به عشق، به بوسه …</p>
+          <p >ایمان بیاوریم</p>
+          <p >به انتظار آغوش‌ های بی‌ هوس</p>
+          <p >دنیا جهنم است برای آنهایی که ایمان نیاورده‌ اند !</p>
+      </div>
     </div>
   );
 }
