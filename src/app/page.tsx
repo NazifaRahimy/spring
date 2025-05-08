@@ -43,7 +43,14 @@ export default function Home() {
            <p  className="text-lg text-justify inline-block" >باران باران محبت ببارد</p>
            <p  className="text-lg text-justify inline-block mb-8" >تـــــو بــــهار آفریـــن بـــــاش</p>
       </div>  
-    
+      <div >
+          <div ><FaQuoteRight /></div>
+          <p >بهار زمانی است که تو با منی</p>
+          <p >و شکوفه‌ های احساسم</p>
+          <p >کنار تو شکفته شود</p>
+          <p >عشق من!</p>
+          <p >بهار تکرار لحظه‌ های بودن توست</p>
+      </div>
     </div>
   );
 }
