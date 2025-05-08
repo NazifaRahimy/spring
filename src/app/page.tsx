@@ -20,28 +20,28 @@ export default function Home() {
            <h2 className="text-xl font-normal mt-10 px-3" >I glanced out the window at the signs of spring. The sky was almost blue, the trees were almost budding, the sun was almost bright .</h2>
            <h2 className="text-xl font-normal mt-5 px-3 mb-10" >به بیرون از پنجره، به نشانه های بهار نگریستم. آسمان تقریبا نیلگون بود، درختان تقریبا جوانه زده بودند، و خورشید تقریبا درخشان بود</h2>
       </div>
-      <div >
-           <div ><FaQuoteRight /></div>
-           <p >بهار که از راه می‌رسد</p>
-           <p> جوانه سر می‌زند، شکوفه می شکفد</p>
-           <p  > باران نم‌نم می بارد آسمان نفس می کشد</p>
-           <p>بهار که از راه می‌رسد</p>
-           <p  >زمین سبز می‌شود بلبل نغمه خوان می‌شود</p>
-           <p  >روز نو می‌شود سال نکو می‌شود</p>
-           <p   >اما… تو چطور؟</p>
-           <p  >اگر شکوفه شکوفه بروید</p>
-           <p  >و دریغ از شکوفه لبخندی که بر لبانت بنشیند چه؟</p>
-           <p   >اگر زمین زمین سبز شود</p>
-           <p  >و هنوز برگ‌های پاییزی سنگفرش دلت باشد چه؟</p>
-           <p   >اگر باران باران طراوت ببارد</p>
-           <p  >و هنوز خاکستر غم و یاس بر شیشه دلت باشد چه؟</p>
-           <p  >اگر روز روز نو شود</p>
-           <p   >ولی چشم‌هایت به عادت و کهنگی گشوده شود چه</p>
-           <p   >اگر گرما گرما مهربانی با طلوع خورشید </p>
-           <p>تا دشت دشت مهربانی بروید</p>
-           <p   >زار هزار خنده بشکفد</p>
-           <p  >باران باران محبت ببارد</p>
-           <p   >تـــــو بــــهار آفریـــن بـــــاش</p>
+      <div className="w-[900px] mx-auto mt-10 bg-gray-100 border border-teal-100 rounded-lg flex flex-col items-center justify-center">
+           <div className="  mx-auto  w-[150px] text-center bg-gray-100 shadow-blue-100 shadow-md rounded-br-full rounded-bl-full flex justify-center pb-4 pt-3  mb-5"><FaQuoteRight /></div>
+           <p className="text-lg text-justify inline-block">بهار که از راه می‌رسد</p>
+           <p className="text-lg text-justify inline-block"> جوانه سر می‌زند، شکوفه می شکفد</p>
+           <p className="text-lg text-justify inline-block" > باران نم‌نم می بارد آسمان نفس می کشد</p>
+           <p className="text-lg text-justify inline-block">بهار که از راه می‌رسد</p>
+           <p  className="text-lg text-justify inline-block" >زمین سبز می‌شود بلبل نغمه خوان می‌شود</p>
+           <p  className="text-lg text-justify inline-block" >روز نو می‌شود سال نکو می‌شود</p>
+           <p  className="text-lg text-justify inline-block" >اما… تو چطور؟</p>
+           <p  className="text-lg text-justify inline-block" >اگر شکوفه شکوفه بروید</p>
+           <p  className="text-lg text-justify inline-block" >و دریغ از شکوفه لبخندی که بر لبانت بنشیند چه؟</p>
+           <p  className="text-lg text-justify inline-block" >اگر زمین زمین سبز شود</p>
+           <p  className="text-lg text-justify inline-block" >و هنوز برگ‌های پاییزی سنگفرش دلت باشد چه؟</p>
+           <p  className="text-lg text-justify inline-block" >اگر باران باران طراوت ببارد</p>
+           <p  className="text-lg text-justify inline-block" >و هنوز خاکستر غم و یاس بر شیشه دلت باشد چه؟</p>
+           <p  className="text-lg text-justify inline-block" >اگر روز روز نو شود</p>
+           <p  className="text-lg text-justify inline-block" >ولی چشم‌هایت به عادت و کهنگی گشوده شود چه</p>
+           <p  className="text-lg text-justify inline-block" >اگر گرما گرما مهربانی با طلوع خورشید </p>
+           <p  className="text-lg text-justify inline-block" >تا دشت دشت مهربانی بروید</p>
+           <p  className="text-lg text-justify inline-block" >زار هزار خنده بشکفد</p>
+           <p  className="text-lg text-justify inline-block" >باران باران محبت ببارد</p>
+           <p  className="text-lg text-justify inline-block mb-8" >تـــــو بــــهار آفریـــن بـــــاش</p>
       </div>  
     
     </div>
