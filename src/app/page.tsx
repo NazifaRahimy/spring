@@ -51,8 +51,8 @@ export default function Home() {
           <p className="text-xl font-normal px-3">عشق من!</p>
           <p className="text-xl font-normal px-3 ">بهار تکرار لحظه‌ های بودن توست</p>
       </div>
-      <div >
-           <img src="https://roozaneh.net/wp-content/uploads/2024/03/bahare-ziba-5.jpg.webp" alt="" />
+      <div className="w-[900px]   rounded-[20px]  mt-10 mx-auto">
+           <img className="w-[900px]  rounded-[20px]"src="https://roozaneh.net/wp-content/uploads/2024/03/bahare-ziba-5.jpg.webp" alt="" />
       </div>
     </div>
   );
