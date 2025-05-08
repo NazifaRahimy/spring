@@ -43,13 +43,13 @@ export default function Home() {
            <p  className="text-lg text-justify inline-block" >باران باران محبت ببارد</p>
            <p  className="text-lg text-justify inline-block mb-8" >تـــــو بــــهار آفریـــن بـــــاش</p>
       </div>  
-      <div >
-          <div ><FaQuoteRight /></div>
-          <p >بهار زمانی است که تو با منی</p>
-          <p >و شکوفه‌ های احساسم</p>
-          <p >کنار تو شکفته شود</p>
-          <p >عشق من!</p>
-          <p >بهار تکرار لحظه‌ های بودن توست</p>
+      <div className="bg-gray-100 text-center w-[900px] h-auto  rounded-2xl border-box px-10 mx-auto mt-10 pb-5" >
+          <div className="  mx-auto  w-[150px] text-center bg-gray-100 shadow-blue-100 shadow-md rounded-br-full rounded-bl-full flex justify-center pb-4 pt-3  mb-5"><FaQuoteRight /></div>
+          <p className="text-xl font-normal px-3">بهار زمانی است که تو با منی</p>
+          <p className="text-xl font-normal px-3">و شکوفه‌ های احساسم</p>
+          <p className="text-xl font-normal px-3">کنار تو شکفته شود</p>
+          <p className="text-xl font-normal px-3">عشق من!</p>
+          <p className="text-xl font-normal px-3 ">بهار تکرار لحظه‌ های بودن توست</p>
       </div>
     </div>
   );
