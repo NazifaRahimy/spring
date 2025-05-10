@@ -69,6 +69,12 @@ export default function Home() {
           <p className="text-xl font-normal px-3">هزار بار بیاید بهار، کافی نیست</p>
           <p className="text-xl font-normal px-3">فاضل نظری</p>
      </div>
+     <div  >
+           <div ><FaQuoteRight /></div>
+          <p >نهال بودم و در حسرتِ بهار! ولی</p>
+          <p >درخت می‌شوم و شوق برگ و بارم نیست</p>
+          <p >فاضل نظری</p>
+      </div>
     </div>
   );
 }
