@@ -62,7 +62,7 @@ export default function Home() {
           <p className="text-xl font-normal px-3">به انتظار آغوش‌ های بی‌ هوس</p>
           <p className="text-xl font-normal px-3">دنیا جهنم است برای آنهایی که ایمان نیاورده‌ اند !</p>
       </div>
-      <h2 >متن عاشقانه فصل بهار</h2>
+      <h2 className="mt-10 text-center mb-4 text-[#232323] font-semibold text-xl">متن عاشقانه فصل بهار</h2>
     </div>
   );
 }
