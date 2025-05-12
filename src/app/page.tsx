@@ -85,6 +85,14 @@ export default function Home() {
           <p className="text-xl font-normal px-3">از خنده ات آب می شود برف</p>
           <p className="text-xl font-normal px-3">در دشت تو لانه می کند سار</p>
       </div>
+      <div  >
+          <div><FaQuoteRight /></div>
+          <p >بهار که رفتن اسفند و آمدن فروردین نیست !</p>
+          <p>بهار یعنی</p>
+          <p >جای بوسه‌ های مردی که تو باشی</p>
+          <p >روی گونه‌ های زنی که من باشم</p>
+          <p >شکوفه بدهد !</p>
+      </div>
     </div>
   );
 }
