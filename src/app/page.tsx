@@ -78,6 +78,13 @@ export default function Home() {
       <div className="w-[900px]   rounded-[20px]  mt-10 mx-auto">
            <img className="w-[900px]  rounded-[20px]"src="https://roozaneh.net/wp-content/uploads/2024/03/bahare-ziba-4.jpg.webp" alt="" />
       </div>
+      <div  >
+           <div ><FaQuoteRight /></div>
+          <p >کافی ست دلت بهار باشد</p>
+          <p>از اشک تو سبز می شود خار</p>
+          <p >از خنده ات آب می شود برف</p>
+          <p >در دشت تو لانه می کند سار</p>
+      </div>
     </div>
   );
 }
