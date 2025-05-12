@@ -78,7 +78,7 @@ export default function Home() {
       <div className="w-[900px]   rounded-[20px]  mt-10 mx-auto">
            <img className="w-[900px]  rounded-[20px]"src="https://roozaneh.net/wp-content/uploads/2024/03/bahare-ziba-4.jpg.webp" alt="" />
       </div>
-      <div  >
+      <div className="bg-gray-100 text-center w-[900px] h-auto  rounded-2xl border-box px-10 mx-auto mt-10 pb-5" >
            <div className="  mx-auto  w-[150px] text-center bg-gray-100 shadow-blue-100 shadow-md rounded-br-full rounded-bl-full flex justify-center pb-4 pt-3  mb-5"><FaQuoteRight /></div>
           <p className="text-xl font-normal px-3">کافی ست دلت بهار باشد</p>
           <p className="text-xl font-normal px-3">از اشک تو سبز می شود خار</p>
