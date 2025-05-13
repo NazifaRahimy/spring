@@ -93,7 +93,18 @@ export default function Home() {
           <p className="text-xl font-normal px-3">روی گونه‌ های زنی که من باشم</p>
           <p  className="text-xl font-normal px-3">!شگوفه بدهد</p>
       </div>
-      <h1 className="text-2xl mt-10 mb-4 font-semibold  text-center">جملات ادبی در مورد بهار</h1>
+        <h1 >جملات ادبی در مورد بهار</h1>
+        <div  >
+          <div ><FaQuoteRight /></div>
+          <p >بـــهار را ببین</p>
+          <p >چگونه از خود می تــکانَد برگ های فرسوده را</p>
+          <p >تو هم جوانه ای بزن</p>
+          <p >ســبز شـــو</p>
+          <p >بـهـار</p>
+          <p >ادامه ی لبخندهای تو خواهد بود…</p>
+          <p >“مینا آقازاده”</p>
+      </div>
     </div>
+
   );
 }
