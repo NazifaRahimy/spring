@@ -109,8 +109,8 @@ export default function Home() {
            <h2 className="text-xl font-normal mt-6  pb-10 px-20 text-center ">وصفی نیست، برای شادی عمیقی که در قلب من است از دیدن تو بهار زندگیم
           دوستت دارم</h2>
       </div>
-      <div >
-           <img src="https://roozaneh.net/wp-content/uploads/2024/03/bahare-ziba-3.jpg.webp" alt="" />
+      <div className="w-[900px]   rounded-[20px]  mt-10 mx-auto">
+           <img className="w-[900px]  rounded-[20px]"src="https://roozaneh.net/wp-content/uploads/2024/03/bahare-ziba-3.jpg.webp" alt="" />
       </div>
     </div>
 
