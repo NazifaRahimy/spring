@@ -93,6 +93,7 @@ export default function Home() {
           <p className="text-xl font-normal px-3">روی گونه‌ های زنی که من باشم</p>
           <p  className="text-xl font-normal px-3">!شگوفه بدهد</p>
       </div>
+      <h1 className="text-2xl mt-10 mb-4 font-semibold  text-center">جملات ادبی در مورد بهار</h1>
     </div>
   );
 }
