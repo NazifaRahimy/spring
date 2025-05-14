@@ -142,6 +142,9 @@ export default function Home() {
           <p className="text-xl font-normal px-3">پنجره پشت ِ خودش یک من و تو کم دارد</p>
           <p className="text-xl font-normal px-3">علیرضا صادقی</p>
       </div>
+      <div className="w-[900px]   rounded-[20px]  mt-10 mx-auto">
+          <img className="w-[900px]  rounded-[20px]"src="https://roozaneh.net/wp-content/uploads/2024/03/bahare-ziba-2.jpg.webp" alt="" />
+     </div>
     </div>
 
   );
