@@ -48,7 +48,7 @@ export default function Home() {
           <p className="text-xl font-normal px-3">بهار زمانی است که تو با منی</p>
           <p className="text-xl font-normal px-3">و شکوفه‌ های احساسم</p>
           <p className="text-xl font-normal px-3">کنار تو شکفته شود</p>
-          <p className="text-xl font-normal px-3">عشق من!</p>
+          <p className="text-xl font-normal px-3">! عشق من</p>
           <p className="text-xl font-normal px-3 ">بهار تکرار لحظه‌ های بودن توست</p>
       </div>
       <div className="w-[900px]   rounded-[20px]  mt-10 mx-auto">
@@ -57,7 +57,7 @@ export default function Home() {
       <div className="bg-gray-100 text-center w-[900px] h-auto  rounded-2xl border-box px-10 mx-auto mt-10 pb-5" >
           <div className="  mx-auto  w-[150px] text-center bg-gray-100 shadow-blue-100 shadow-md rounded-br-full rounded-bl-full flex justify-center pb-4 pt-3  mb-5"><FaQuoteRight /></div>
           <p className="text-xl font-normal px-3">ایمان بیاوریم به بهار</p>
-          <p className="text-xl font-normal px-3">به عشق، به بوسه …</p>
+          <p className="text-xl font-normal px-3">....به عشق ، به بوسه</p>
           <p className="text-xl font-normal px-3">ایمان بیاوریم</p>
           <p className="text-xl font-normal px-3">به انتظار آغوش‌ های بی‌ هوس</p>
           <p className="text-xl font-normal px-3">دنیا جهنم است برای آنهایی که ایمان نیاورده‌ اند !</p>
@@ -124,6 +124,7 @@ export default function Home() {
           <p className="text-xl font-normal px-3">، پاییز کم بود</p>
           <p className="text-xl font-normal px-3">.... بهار هم عاشق شد</p>
       </div>
+      <h2 className="mt-10 text-center mb-4 text-[#232323] font-semibold text-xl">عکس نوشته عاشقانه بهاری</h2>
     </div>
 
   );
