@@ -117,6 +117,13 @@ export default function Home() {
            <h2 className="text-xl font-normal mt-6  pb-10 px-20 text-center ">یک لبخند تو، بیابانی را دشت مجنون می کند مهربان من
           <br /> <span className="text-blue-600 font-bold mt-1">دوستت درام</span></h2>
       </div>
+          <div  >
+          <div ><FaQuoteRight /></div>
+          <p>،باران</p>
+          <p >! چه دلبری می کند برای بهار</p>
+          <p>، پاییز کم بود</p>
+          <p >.... بهار هم عاشق شد</p>
+      </div>
     </div>
 
   );
