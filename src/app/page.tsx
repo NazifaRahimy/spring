@@ -145,6 +145,19 @@ export default function Home() {
       <div className="w-[900px]   rounded-[20px]  mt-10 mx-auto">
           <img className="w-[900px]  rounded-[20px]"src="https://roozaneh.net/wp-content/uploads/2024/03/bahare-ziba-2.jpg.webp" alt="" />
      </div>
+      <div >
+          <div ><FaQuoteRight /></div>
+          <p >قرارمان  همین بهار</p>
+          <p>! زیر شکوفه های شعر</p>
+          <p >آنجا که واژه ها</p>
+          <p >برای تو گل می کنند</p>
+          <p >آنجا که حرف های زمین افتاده ام</p>
+          <p >دوباره سبز می شوند</p>
+          <p >وَ دست های عاشقمان</p>
+          <p>گره در کارِ سبزه ها می اندازند ؛</p>
+          <p >! قرارمان زیر چشم های تو</p>
+          <p >آنجا که شعر نم نم شروع می شود</p>
+      </div>
     </div>
 
   );
