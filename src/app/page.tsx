@@ -158,6 +158,13 @@ export default function Home() {
           <p className="text-xl font-normal px-3">! قرارمان زیر چشم های تو</p>
           <p className="text-xl font-normal px-3">آنجا که شعر نم نم شروع می شود</p>
       </div>
+         <div >
+          <div><FaQuoteRight /></div>
+          <p >تو اگر بهار را صدا کنی،</p>
+          <p >می آید!</p>
+          <p >حتی اگر دلش؛</p>
+          <p >جا مانده باشد میان برف‌ ها…</p>
+     </div>
     </div>
 
   );
