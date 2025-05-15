@@ -168,6 +168,7 @@ export default function Home() {
        <div className="w-[900px]   rounded-[20px]  mt-10 mx-auto">
           <img className="w-[900px]  rounded-[20px]"src="https://roozaneh.net/wp-content/uploads/2024/03/bahare-ziba-1.jpg.webp" alt="" />
      </div>
+      <h2 className="mt-10 text-center mb-4 text-[#232323] font-semibold text-xl">اشعار عاشقانه درباره بهار</h2>
     </div>
 
   );
