@@ -203,6 +203,9 @@ export default function Home() {
           <p className="text-xl font-normal px-3">بهار بود،</p>
           <p className="text-xl font-normal px-3">کنار تو همیشه بهار بود محبوب من</p>
       </div>
+       <div className="w-[900px]   rounded-[20px]  mt-10 mx-auto">
+           <img className="w-[900px]  rounded-[20px]"src="https://roozaneh.net/wp-content/uploads/2024/03/2-25318_beautiful-flowers-wallpapers-4k-2048x1280.jpg.webp" alt="" />
+     </div>
     </div>
 
   );
