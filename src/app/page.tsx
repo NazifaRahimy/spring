@@ -219,6 +219,12 @@ export default function Home() {
            <div className="  mx-auto  w-[150px] text-center bg-gray-100 shadow-blue-100 shadow-md rounded-br-full rounded-bl-full flex justify-center pb-4 pt-3  mb-5"><FaQuoteRight /></div>
           <p className="text-xl font-normal px-3">عطر یک شکوفه ی بهار نارنج ات برای من کافیست بهار، تا آمدنت را به انتظار بنشینم</p>
       </div>
+         <div >
+          <div ><FaQuoteRight /></div>
+          <p >وقت آن شد که به گل حکم شکفتن بدهی</p>
+          <p>ای سرانگشت تو آغاز گل افشانی‌ها</p>
+          <p>قیصر امین‌پور</p>
+     </div>
     </div>
 
   );
