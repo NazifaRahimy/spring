@@ -198,9 +198,9 @@ export default function Home() {
        <h2 className="mt-10 text-center mb-4 text-[#232323] font-semibold text-xl">جملات احساسی تبریک فصل بهار</h2>
          <div className="bg-gray-100 text-center w-[900px] h-auto   rounded-2xl border-box px-10 mx-auto mt-10 pb-5" >
            <div className="  mx-auto  w-[150px] text-center bg-gray-100 shadow-blue-100 shadow-md rounded-br-full rounded-bl-full flex justify-center pb-4 pt-3  mb-5"><FaQuoteRight /></div>
-          <p className="text-xl font-normal px-3">با هم به تماشای رقص گیسوان رها در بادِ بید مجنون نشستیم،</p>
-          <p className="text-xl font-normal px-3">دل های مان بی قرار بود،</p>
-          <p className="text-xl font-normal px-3">بهار بود،</p>
+          <p className="text-xl font-normal px-3">، باهم به تماشای رقص گیسوان رها در باد بید مجنون نشستیم</p>
+          <p className="text-xl font-normal px-3">،دل های مان بی قرار بود</p>
+          <p className="text-xl font-normal px-3">، بهار بود</p>
           <p className="text-xl font-normal px-3">کنار تو همیشه بهار بود محبوب من</p>
       </div>
        <div className="w-[900px]   rounded-[20px]  mt-10 mx-auto">
@@ -228,15 +228,15 @@ export default function Home() {
        <div className="w-[900px]   rounded-[20px]  mt-10 mx-auto">
           <img className="w-[900px]  rounded-[20px]"src="https://roozaneh.net/wp-content/uploads/2024/03/love___spring-wallpaper-3840x2400-1-2048x1280.jpg.webp" alt="" />
      </div>
-        <div >
-           <div ><FaQuoteRight /></div>
-          <p >هوا عجیب بوی بهار گرفته است</p>
-          <p >دستم را بگیر</p>
-          <p >ی لمس احساسی‌ ترین باران به خیابان ببر</p>
-          <p >خیالت راحت، این باران</p>
-          <p >از آسمان اردیبهشت می‌ بارد</p>
-          <p >خیسمان نمیکند</p>
-          <p >عاشق‌ ترمان می‌ کند !</p>
+        <div className="bg-gray-100 text-center w-[900px] h-auto   rounded-2xl border-box px-10 mx-auto mt-10 pb-5" >
+           <div className="  mx-auto  w-[150px] text-center bg-gray-100 shadow-blue-100 shadow-md rounded-br-full rounded-bl-full flex justify-center pb-4 pt-3  mb-5"><FaQuoteRight /></div>
+          <p className="text-xl font-normal px-3">هوا عجیب بوی بهار گرفته است</p>
+          <p className="text-xl font-normal px-3">دستم را بگیر</p>
+          <p className="text-xl font-normal px-3">ی لمس احساسی‌ ترین باران به خیابان ببر</p>
+          <p className="text-xl font-normal px-3">خیالت راحت، این باران</p>
+          <p className="text-xl font-normal px-3">از آسمان اردیبهشت می‌ بارد</p>
+          <p className="text-xl font-normal px-3">خیسمان نمیکند</p>
+          <p className="text-xl font-normal px-3">!عاشق ترمان می کند</p>
       </div>
     </div>
 
