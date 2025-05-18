@@ -228,6 +228,16 @@ export default function Home() {
        <div className="w-[900px]   rounded-[20px]  mt-10 mx-auto">
           <img className="w-[900px]  rounded-[20px]"src="https://roozaneh.net/wp-content/uploads/2024/03/love___spring-wallpaper-3840x2400-1-2048x1280.jpg.webp" alt="" />
      </div>
+        <div >
+           <div ><FaQuoteRight /></div>
+          <p >هوا عجیب بوی بهار گرفته است</p>
+          <p >دستم را بگیر</p>
+          <p >ی لمس احساسی‌ ترین باران به خیابان ببر</p>
+          <p >خیالت راحت، این باران</p>
+          <p >از آسمان اردیبهشت می‌ بارد</p>
+          <p >خیسمان نمیکند</p>
+          <p >عاشق‌ ترمان می‌ کند !</p>
+      </div>
     </div>
 
   );
