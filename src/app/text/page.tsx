@@ -15,8 +15,8 @@ export default function Text() {
                     <p className="text-xl font-normal px-3">درخت می‌شوم و شوق برگ و بارم نیست</p>
                     <p className="text-xl font-normal px-3">فاضل نظری</p>
                 </div>
-                <div >
-                    <img src="https://roozaneh.net/wp-content/uploads/2024/03/bahare-ziba-4.jpg.webp" alt="" />
+                <div className="w-[900px]   rounded-[20px]  mt-10 mx-auto">
+                    <img className="w-[900px]  rounded-[20px]"src="https://roozaneh.net/wp-content/uploads/2024/03/bahare-ziba-4.jpg.webp" alt="" />
                 </div>
         </div>
   )
