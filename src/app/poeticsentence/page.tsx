@@ -14,6 +14,11 @@ const Poeticsentence = () => {
                 <p className="text-xl font-normal px-3">ادامه ی لبخندهای تو خواهد بود…</p>
                 <p className="text-xl font-normal px-3">“مینا آقازاده”</p>
             </div>
+             <div >
+                <div ><FaQuoteRight /></div>
+                <h2 >وصفی نیست، برای شادی عمیقی که در قلب من است از دیدن تو بهار زندگیم
+                       دوستت دارم</h2>
+            </div>
         </div>
     );
 }
