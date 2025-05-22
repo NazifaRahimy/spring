@@ -22,6 +22,11 @@ const Poeticsentence = () => {
               <div className="w-[900px]   rounded-[20px]  mt-10 mx-auto">
                 <img className="w-[900px]  rounded-[20px]"src="https://roozaneh.net/wp-content/uploads/2024/03/bahare-ziba-3.jpg.webp" alt="" />
             </div>
+            <div >
+                <div ><FaQuoteRight /></div>
+                <h2 >یک لبخند تو، بیابانی را دشت مجنون می کند مهربان من
+                <br /> <span >دوستت درام</span></h2>
+            </div>
         </div>
     );
 }
