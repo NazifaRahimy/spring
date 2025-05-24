@@ -27,12 +27,12 @@ const Poeticsentence = () => {
                 <h2 className="text-xl font-normal mt-6  pb-10 px-20 text-center ">یک لبخند تو، بیابانی را دشت مجنون می کند مهربان من
                 <br /> <span className="text-blue-600 font-bold mt-1">دوستت درام</span></h2>
             </div>
-                    <div >
-                <div ><FaQuoteRight /></div>
-                <p >،باران</p>
-                <p>چه دلبری می کند برای بهار!</p>
-                <p >پاییز کم بود،</p>
-                <p >بهار هم عاشق شد…</p>
+                    <div className="bg-gray-100 text-center w-[900px] h-auto   rounded-2xl border-box px-10 mx-auto mt-10 pb-5" >
+                <div className="  mx-auto  w-[150px] text-center bg-gray-100 shadow-blue-100 shadow-md rounded-br-full rounded-bl-full flex justify-center pb-4 pt-3  mb-5"><FaQuoteRight /></div>
+                <p className="text-xl font-normal px-3">،باران</p>
+                <p className="text-xl font-normal px-3">! چه دلبری می کند برای بهار</p>
+                <p className="text-xl font-normal px-3">پاییز کم بود،</p>
+                <p className="text-xl font-normal px-3">بهار هم عاشق شد…</p>
             </div>
         </div>
     );
