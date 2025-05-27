@@ -10,6 +10,11 @@ const Image = () => {
                 <p className="text-xl font-normal px-3">به شوق تو قدم در خیابان می گذارم</p>
                 <p className="text-xl font-normal px-3">درختان بهاری را تماشا می کنم و مست می شوم از بوی شکوفه و سبزه و <span className="text-blue-700 hover:text-red-600 duration-100">باران</span></p>
             </div>
+               <div >
+                   <div ><FaQuoteRight /></div>
+                  <p >با شکفتن اولین شکوفه در بهار بود که عشق به خانه من آمد</p>
+                  <p>اینک در بهاری دیگر سرشار از حس زیستنم کنار تو همسر دوست داشتنی من</p>
+              </div>
         </div>
     );
 }
