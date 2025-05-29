@@ -27,7 +27,7 @@ const Image = () => {
              <div className="bg-gray-100 text-center w-[900px] h-auto   rounded-2xl border-box px-10 mx-auto mt-10 pb-5" >
                   <div className="  mx-auto  w-[150px] text-center bg-gray-100 shadow-blue-100 shadow-md rounded-br-full rounded-bl-full flex justify-center pb-4 pt-3  mb-5"><FaQuoteRight /></div>
                   <p className="text-xl font-normal px-3">قرارمان  همین بهار</p>
-                  <p className="text-xl font-normal px-3">زیر شکوفه های شعر !</p>
+                  <p className="text-xl font-normal px-3">!زیر شکوفه های شعر</p>
                   <p className="text-xl font-normal px-3">آنجا که واژه ها</p>
                   <p className="text-xl font-normal px-3">برای تو گل می کنند</p>
                   <p className="text-xl font-normal px-3">آنجا که حرف های زمین افتاده ام</p>
@@ -35,15 +35,15 @@ const Image = () => {
                   <p className="text-xl font-normal px-3">وَ دست های عاشقمان</p>
                   <p className="text-xl font-normal px-3"></p>
                   <p className="text-xl font-normal px-3">گره در کارِ سبزه ها می اندازند ؛</p>
-                  <p className="text-xl font-normal px-3">قرارمان زیرِ چشم های تو !</p>
+                  <p className="text-xl font-normal px-3">! قرارمان زیر چشم های تو</p>
                   <p className="text-xl font-normal px-3">آنجا که شعر نم نم شروع می شود</p>
               </div>
               <div className="bg-gray-100 text-center w-[900px] h-auto   rounded-2xl border-box px-10 mx-auto mt-10 pb-5" >
                   <div className="  mx-auto  w-[150px] text-center bg-gray-100 shadow-blue-100 shadow-md rounded-br-full rounded-bl-full flex justify-center pb-4 pt-3  mb-5"><FaQuoteRight /></div>
                   <p className="text-xl font-normal px-3">تو اگر بهار را صدا کنی،</p>
-                  <p className="text-xl font-normal px-3">می آید!</p>
+                  <p className="text-xl font-normal px-3">!می آید</p>
                   <p className="text-xl font-normal px-3">حتی اگر دلش؛</p>
-                  <p className="text-xl font-normal px-3">جا مانده باشد میان برف‌ ها…</p>
+                  <p className="text-xl font-normal px-3">.... جا مانده باشد میان برف ها</p>
              </div>
                  <div className="w-[900px]   rounded-[20px]  mt-10 mx-auto">
                   <img className="w-[900px]  rounded-[20px]"src="https://roozaneh.net/wp-content/uploads/2024/03/bahare-ziba-1.jpg.webp" alt="" />
