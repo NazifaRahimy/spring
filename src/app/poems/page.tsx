@@ -20,6 +20,15 @@ const Poems = () => {
             <div className="w-[900px]   rounded-[20px]  mt-10 mx-auto">
                 <img className="w-[900px]  rounded-[20px]"src="https://roozaneh.net/wp-content/uploads/2024/03/love-3091214_1280.jpg.webp" alt="" />
             </div>
+             <div  >
+             <div><FaQuoteRight /></div>
+             <p >سبزه‌ ها در بهار می‌ رقصند</p>
+             <p >من در کنار تو به آرامش می‌ رسم</p>
+             <p >و آنجا که هیچ‌ کس به یاد ما نیست</p>
+             <p>تو را عاشقانه می‌ بوسم</p>
+             <p >تا با گرمی نفس‌ هایم به لبانت جان دهم !</p>
+             <p >با گرمی نفس‌ هایت جانی دوباره گیرم</p>
+        </div>
         </div>
       );
 }
