@@ -17,9 +17,9 @@ const Poems = () => {
                 <p className="text-xl font-normal px-3">هدیه جشن اقاقی ها را</p>
                 <p className="text-xl font-normal px-3">گل به دامن کرده است</p>
             </div>
-            <div >
-                <img src="https://roozaneh.net/wp-content/uploads/2024/03/love-3091214_1280.jpg.webp" alt="" />
-           </div>
+            <div className="w-[900px]   rounded-[20px]  mt-10 mx-auto">
+                <img className="w-[900px]  rounded-[20px]"src="https://roozaneh.net/wp-content/uploads/2024/03/love-3091214_1280.jpg.webp" alt="" />
+            </div>
         </div>
       );
 }
