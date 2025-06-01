@@ -29,7 +29,7 @@ const Poems = () => {
                 <p className="text-xl font-normal px-3">تا با گرمی نفس‌ هایم به لبانت جان دهم !</p>
                 <p className="text-xl font-normal px-3">با گرمی نفس‌ هایت جانی دوباره گیرم</p>
             </div>
-            <h2>جملات احساسی تبریک فصل بهار</h2>
+            <h2 className="mt-10 text-center mb-4 text-[#232323] font-semibold text-xl">جملات احساسی تبریک فصل بهار</h2>
         </div>
       );
 }
