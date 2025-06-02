@@ -26,7 +26,7 @@ const Poems = () => {
                 <p className="text-xl font-normal px-3">من در کنار تو به آرامش می‌ رسم</p>
                 <p className="text-xl font-normal px-3">و آنجا که هیچ‌ کس به یاد ما نیست</p>
                 <p className="text-xl font-normal px-3">تو را عاشقانه می‌ بوسم</p>
-                <p className="text-xl font-normal px-3">تا با گرمی نفس‌ هایم به لبانت جان دهم !</p>
+                <p className="text-xl font-normal px-3">! تا با گرمی نفس هایم جان به لبت بدهم</p>
                 <p className="text-xl font-normal px-3">با گرمی نفس‌ هایت جانی دوباره گیرم</p>
             </div>
             <h2 className="mt-10 text-center mb-4 text-[#232323] font-semibold text-xl">جملات احساسی تبریک فصل بهار</h2>
@@ -38,12 +38,12 @@ const Poems = () => {
             <div className="w-[900px]   rounded-[20px]  mt-10 mx-auto">
                 <img className="w-[900px]  rounded-[20px]"src="https://roozaneh.net/wp-content/uploads/2024/03/2-25318_beautiful-flowers-wallpapers-4k-2048x1280.jpg.webp" alt="" />
             </div>
-                    <div  >
-            <div><FaQuoteRight /></div>
-            <p >تو را که می بینم عطر بهار نارنج در تمام شهر می پیچید</p>
-            <p >قدم که بر می داری هر درخت شکوفه می زند و نسیم بهاری با شوخ طبعی میان گیسوانت می دود</p>
-            <p >دوستت دارم عشقم</p>
-        </div>
+            <div className="bg-gray-100 text-center w-[900px] h-auto   rounded-2xl border-box px-10 mx-auto mt-10 pb-5" >
+                <div className="  mx-auto  w-[150px] text-center bg-gray-100 shadow-blue-100 shadow-md rounded-br-full rounded-bl-full flex justify-center pb-4 pt-3  mb-5"><FaQuoteRight /></div>
+                <p className="text-xl font-normal px-3">تو را که می بینم عطر بهار نارنج در تمام شهر می پیچید</p>
+                <p className="text-xl font-normal px-3">قدم که بر می داری هر درخت شکوفه می زند و نسیم بهاری با شوخ طبعی میان گیسوانت می دود</p>
+                <p className="text-xl font-normal px-3">دوستت دارم عشقم</p>
+            </div>
         </div>
       );
 }
