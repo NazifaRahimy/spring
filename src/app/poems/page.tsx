@@ -38,6 +38,12 @@ const Poems = () => {
             <div className="w-[900px]   rounded-[20px]  mt-10 mx-auto">
                 <img className="w-[900px]  rounded-[20px]"src="https://roozaneh.net/wp-content/uploads/2024/03/2-25318_beautiful-flowers-wallpapers-4k-2048x1280.jpg.webp" alt="" />
             </div>
+                    <div  >
+            <div><FaQuoteRight /></div>
+            <p >تو را که می بینم عطر بهار نارنج در تمام شهر می پیچید</p>
+            <p >قدم که بر می داری هر درخت شکوفه می زند و نسیم بهاری با شوخ طبعی میان گیسوانت می دود</p>
+            <p >دوستت دارم عشقم</p>
+        </div>
         </div>
       );
 }
