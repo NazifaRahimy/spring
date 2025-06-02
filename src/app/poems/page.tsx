@@ -30,6 +30,11 @@ const Poems = () => {
                 <p className="text-xl font-normal px-3">با گرمی نفس‌ هایت جانی دوباره گیرم</p>
             </div>
             <h2 className="mt-10 text-center mb-4 text-[#232323] font-semibold text-xl">جملات احساسی تبریک فصل بهار</h2>
+            <div >
+                <div ><FaQuoteRight /></div>
+                <p>با هم به تماشای رقص گیسوان رها در بادِ بید مجنون نشستیم،</p>
+                <p >کنار تو همیشه بهار بود محبوب من</p>
+            </div>
         </div>
       );
 }
