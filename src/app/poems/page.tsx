@@ -35,6 +35,9 @@ const Poems = () => {
                 <p className="text-xl font-normal px-3">با هم به تماشای رقص گیسوان رها در بادِ بید مجنون نشستیم،</p>
                 <p className="text-xl font-normal px-3">کنار تو همیشه بهار بود محبوب من</p>
             </div>
+            <div >
+                <img src="https://roozaneh.net/wp-content/uploads/2024/03/2-25318_beautiful-flowers-wallpapers-4k-2048x1280.jpg.webp" alt="" />
+            </div>
         </div>
       );
 }
