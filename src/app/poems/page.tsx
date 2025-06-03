@@ -44,8 +44,8 @@ const Poems = () => {
                 <p className="text-xl font-normal px-3">قدم که بر می داری هر درخت شکوفه می زند و نسیم بهاری با شوخ طبعی میان گیسوانت می دود</p>
                 <p className="text-xl font-normal px-3">دوستت دارم عشقم</p>
             </div>
-            <div >
-                <img src="https://roozaneh.net/wp-content/uploads/2024/03/Dl9XtJ-2048x1280.jpg.webp" alt="" />
+            <div className="w-[900px]   rounded-[20px]  mt-10 mx-auto">
+                <img className="w-[900px]  rounded-[20px]"src="https://roozaneh.net/wp-content/uploads/2024/03/Dl9XtJ-2048x1280.jpg.webp" alt="" />
             </div>
         </div>
       );
