@@ -47,6 +47,10 @@ const Poems = () => {
             <div className="w-[900px]   rounded-[20px]  mt-10 mx-auto">
                 <img className="w-[900px]  rounded-[20px]"src="https://roozaneh.net/wp-content/uploads/2024/03/Dl9XtJ-2048x1280.jpg.webp" alt="" />
             </div>
+            <div >
+                <div ><FaQuoteRight /></div>
+                <p >عطر یک شکوفه ی بهار نارنج ات برای من کافیست بهار، تا آمدنت را به انتظار بنشینم</p>
+           </div>
         </div>
       );
 }
