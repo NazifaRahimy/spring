@@ -57,8 +57,8 @@ const Poems = () => {
                  <p className="text-xl font-normal px-3">ای سرانگشت تو آغاز گل افشانی‌ها</p>
                  <p className="text-xl font-normal px-3">قیصر امین‌ پور</p>
             </div>
-            <div >
-                <img  src="https://roozaneh.net/wp-content/uploads/2024/03/love___spring-wallpaper-3840x2400-1-2048x1280.jpg.webp" alt="" />
+            <div className="w-[900px]   rounded-[20px]  mt-10 mx-auto">
+                <img className="w-[900px]  rounded-[20px]"src="https://roozaneh.net/wp-content/uploads/2024/03/love___spring-wallpaper-3840x2400-1-2048x1280.jpg.webp" alt="" />
             </div>
         </div>
       );
